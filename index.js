@@ -16,5 +16,5 @@ function appendKitten(name){
   return kittens.concat(name)
 }
 function prependKitten(name){
-  return kittens.
+  return kittens.splice(0,0 1, name)
 }
